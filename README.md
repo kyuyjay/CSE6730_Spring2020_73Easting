@@ -10,3 +10,11 @@ The addition of a longer kill chain adds an element of stochastism
 
 ### Agent Based Model
 A full model that takes advantage of the self-organizing and self-emergent behavior of individual actors to produce realistic results. Accounts for terrain factors as well as a heterogeneous mix of agent types.
+
+## Usage
+Simply clone this repo then run
+```
+jupyter notebook
+```
+
+Open the given address in a browser and open `Battle73Easting.ipynb`. Follow through the instructions and explore this landmark battle through modelling and simulation!
